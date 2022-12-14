@@ -1,5 +1,12 @@
 # iree-reproduce-cuda-issue
 
+## Environment Setup
+
+The following was run on a GCP n1-standard-4 Intel Haswell x86/64 instance
+with an NVIDIA T4 GPU on Ubuntu 22.04.
+
+## Running the Repro
+
 First, run the setup script, saying Y at all prompts.
 
 ```
